@@ -1,0 +1,46 @@
+Matrix Size | Execution Time (ms)
+    10 |      0
+    50 |      1
+   100 |      7
+   500 |    838
+  1000 |   6935
+  1500 |  25084
+  2000 |  70718
+  2500 | 135082
+  3000 | 253163
+
+
+ Comparing the results of matrix multiplication: 
+
+Matrix Size: 10x10 - The values matched
+Matrix Size: 50x50 - The values matched
+Matrix Size: 100x100 - The values matched
+Matrix Size: 500x500 - The values matched
+Matrix Size: 1000x1000 - The values matched
+Matrix Size: 1500x1500 - The values matched
+Matrix Size: 2000x2000 - The values matched
+Matrix Size: 2500x2500 - The values matched
+Matrix Size: 3000x3000 - The values matched
+
+
+ Comparing the results of matrix multiplication: 
+
+Matrix Size: 10x10 - the values did not match
+Matrix Size: 50x50 - The values matched
+Matrix Size: 100x100 - The values matched
+Matrix Size: 500x500 - The values matched
+Matrix Size: 1000x1000 - The values matched
+Matrix Size: 1500x1500 - The values matched
+Matrix Size: 2000x2000 - The values matched
+Matrix Size: 2500x2500 - The values matched
+
+
+ Comparing the results of matrix multiplication: 
+
+Matrix Size: 10x10 - The values matched
+Matrix Size: 50x50 - The values matched
+Matrix Size: 100x100 - The values matched
+Matrix Size: 500x500 - The values matched
+Matrix Size: 1000x1000 - The values matched
+Matrix Size: 1500x1500 - The values matched
+Matrix Size: 2000x2000 - The values matched
